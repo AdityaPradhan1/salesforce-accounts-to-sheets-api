@@ -1,0 +1,22 @@
+{
+  "name": "salesforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sf1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "googleapis": "^84.0.0",
+    "jsforce": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

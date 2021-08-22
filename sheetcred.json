@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "conbi-salesforce",
+  "private_key_id": "c492f0e58845dcd4b2848ff134060134b216ee25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDq81YgNBdzrdo+\nqp7q54iFLH3AOPEWzhzS82Cu8BEYO64/b30M4lXDzdBVobCeNtbFFiD2CPqzaP3+\nnWEo/zoLh41tJyVDRovNgiIenWViLfwxfgFtPiNoiXHgsdihgeItYYnvebzJzocg\ngJKecMDjdVKbks6rYCuXzBCMz63fFO0WWG5MNW+EYFrLNJRMSgv5MyJeHXQjhAex\n30/7HNZAKsYMEmhUsFdyYzDpmrZf+uvw2ezN4eZGjun++kh9+WETfs26oR5yWMUo\n5iRR9YmsH0sh3tkv5NObc6k9jI3h+ioGrn0/0piiUePFkGpRjB2mNI41I+XEmeac\n//CBvvdrAgMBAAECggEABVcHEqmihnAScrosf27aluk6b2ZJoKsQHKX2GYnczWlW\n+v0p5FcrPuW+ntIZZJeMxYHGrT6UtyhREVkoc8hfVk/v6sFHfN2qjj7mKqv22Aay\nAyfcSZVucPioplBwqn4awJBXuRXYMM1AG9Yll1RJe71mhAKuXw2ggk1hzNGA4uu6\nKGFCTdmwhztAqOhygMmrdKsvTaExoOr5Ah2lq3sy8stGlmwe1v4+mg87coZnhHuR\nn6pcrDFRdMYuPU9dayPAjZInY7TbCHIIywlGIEB3fWpMiRZT0z2lB8oRrS3XZnKe\nBgHP/zziw8J9jnrCl/yADXIGMy4RQT0jcbKnCYY4AQKBgQD+I7hwD9prBTTdatUZ\nQK03T01XuCNyj7wvqR5S7JtAL9+3SZcufwBdo/qSARQdXq/GusdJWIh4YsmlHnfw\nPfek3uU8hcYSTynrNS5qN+H0cwopSoJP6SZ6qPSI8vRSSg/K39pmmV7KsTYPSjBN\n92vB5S3O2YSpIyeE8kG2Z5ozqwKBgQDsq6d0PZFghk+3ED1wB6/wlDKhEFm5dKz/\nCGVMJpT5Z2pxmBz08hR/Yn0EvpEMuUQ0CqJC3zzDZe2bObPU8FI4xReaBS6LwAlz\nI4z4PEyGAR94E6DlpryIdqUtDpK7UIfJTqoSBHvXQk8Qz/pP3Z8K0npmur3FU63P\n3KIkwp6LQQKBgBW6MhOKl27c5BcmAhAFool/AyrDuGwb88fTWp9WUTOcpDDEXuN/\nwiU/VrXS18hnBvojj9QqeIhqUbkHMNPeSGTVFZ4mBbgdAoV0Z4J3Qp8mkrDTCO8S\nDNMhzL5EnzTF1jHPD5oD9MG5gtitzBFuXM0X7eGoYRogwkkweQPCOcG/AoGAB4s9\nLjZcMPB3EAXDf5OvJwMCTiIASioO7Z4t5GyCaSTDvtUzbxdcUecoxwLwCrDJHMOO\nAoWtISlZlo4TTmFOraKSqwUpQ6keY/4pGyyI3+ifQSuXAFr9PXhSsYn6YWAiw+bv\nAt4DuIvTi1ylxO/yhtzIrAedzvFo4+xLetJ9TUECgYEAjkE+Qv6t72IRc7uBPUTq\nYIsQ0BxuMxC8rntS3tUdKCP+OFUotM+VO6NH6VdSoAn+Sc3A6cRZ7w23o3EFAfEC\nm6uxVBoGTHOX/9ykWkyxLi3lMftm20MEgOL/f1bt9YSNAmMcbZojfYa1NYyWnL/k\nlcqmPyLyJnpVqQId6T2v5ZE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "conbi-salesforce@conbi-salesforce.iam.gserviceaccount.com",
+  "client_id": "107358909256637536805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conbi-salesforce%40conbi-salesforce.iam.gserviceaccount.com"
+}
